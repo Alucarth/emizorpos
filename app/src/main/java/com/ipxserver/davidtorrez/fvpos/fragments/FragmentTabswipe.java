@@ -96,9 +96,9 @@ public class FragmentTabswipe extends Fragment //implements ActionBar.TabListene
 //        }
 //
 //
-        gridbarAdapter = new GridbarAdapter(this,rootView.getContext());
-        gridbar= (GridView) rootView.findViewById(R.id.barraSaldo);
-        gridbar.setAdapter(gridbarAdapter);
+//        gridbarAdapter = new GridbarAdapter(this,rootView.getContext());
+//        gridbar= (GridView) rootView.findViewById(R.id.barraSaldo);
+//        gridbar.setAdapter(gridbarAdapter);
 
 //        gridbar.setVisibility(View.INVISIBLE);
 

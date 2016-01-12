@@ -1,2 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_9ad46e354be50826ac4cd7dcb243462b78ffacbf.jar" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-21.0.3_047fd15e4c0b582ea54ab497402286dbc4302848.jar" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/pre-dexed/debug/com.astuetz-pagerslidingtabstrip-1.0.1_98183a65849441a1377346e1d3cfd9378c19021a.jar" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/emizorpos/app/libs/com.nbbse.mobiprint3-v0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="07d49efabc37a2db063810471458b15f8b9dd921">
+        <dex dex="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/pre-dexed/debug/com.nbbse.mobiprint3-v0.2_b24e29196ec915132cb1d18473e4858c1aff7c1a.jar" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-21.0.3_59df5c398bedee976b2bd7dfc8a188a7f85c7ee2.jar" />
+    </item>
+    <item
+        jar="/home/david/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_0f549872d3f78ad8e70f2a42439dedfc0b4aa27a.jar" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/exploded-aar/com.github.shell-software/uitools/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="841420e749b01799d17bf0a83cc6eb64dd8fa136">
+        <dex dex="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/pre-dexed/debug/com.github.shell-software-uitools-1.0.0_b5d5a46698488db0aa258d0567094f6cbf346cf0.jar" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_22c5d1c5f1ccb12f7c22fb18b6b30a5b3e67aa3d.jar" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/exploded-aar/com.github.shell-software/viewmover/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d065ab6e064a1398750b52b1108e52c6d5e77807">
+        <dex dex="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/pre-dexed/debug/com.github.shell-software-viewmover-1.0.1_34cc9c4c87e34f77c61039c550e99fa06b773271.jar" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cf52449fa39e6e61964c43f880ea827e0bcc8c9c">
+        <dex dex="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/pre-dexed/debug/com.github.shell-software-fab-1.1.1_159881c1144f6112a65c8ba9dd31c32177541dda.jar" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_6820a19cd7c331d534886429d13e492a1f2becc3.jar" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/emizorpos/app/libs/core.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="/home/david/AndroidStudioProjects/emizorpos/app/build/intermediates/pre-dexed/debug/core_f92d0b7020ac4fce8cdb9023fa34c267a4e9a8b8.jar" />
+    </item>
+
+</items>

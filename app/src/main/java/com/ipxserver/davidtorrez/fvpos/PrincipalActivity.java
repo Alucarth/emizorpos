@@ -29,6 +29,7 @@ import com.ipxserver.davidtorrez.fvpos.fragments.FragmentEmpresa;
 import com.ipxserver.davidtorrez.fvpos.fragments.FragmentFactura;
 import com.ipxserver.davidtorrez.fvpos.fragments.FragmentLista;
 import com.ipxserver.davidtorrez.fvpos.fragments.FragmentTabswipe;
+import com.ipxserver.davidtorrez.fvpos.fragments.FragmentVenta;
 import com.ipxserver.davidtorrez.fvpos.models.Account;
 import com.ipxserver.davidtorrez.fvpos.models.Branches;
 import com.ipxserver.davidtorrez.fvpos.models.Categoria;
@@ -51,6 +52,8 @@ public class PrincipalActivity extends ActionBarActivity {
     FragmentTabswipe fragmentTabswipe=null;
     FragmentEmpresa fragmentEmpresa=null;
     FragmentTabswipe fragmentEditTabswipe=null;
+
+    FragmentVenta fragmentVenta= null;
 
     User usuario;
 
@@ -131,8 +134,8 @@ public class PrincipalActivity extends ActionBarActivity {
         navigationInit();
 
        inicializarContenido();
-//        cargarFragmento(getFragmentLista());
-        cambiarFragmento(FragmentReceiver.FRAGMENT_LISTA);
+        cargarFragmento(getFragmentVenta());
+//        cambiarFragmento(FragmentReceiver.FRAGMENT_LISTA);
 
     }
 
@@ -347,6 +350,15 @@ public class PrincipalActivity extends ActionBarActivity {
         return fragmentEmpresa;
     }
 
+    public FragmentVenta getFragmentVenta()
+    {
+        if(fragmentVenta==null)
+        {
+            fragmentVenta = new FragmentVenta();
+        }
+
+        return fragmentVenta;
+    }
     @Override
     protected void onResume() {
         super.onResume();
