@@ -1,0 +1,83 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+
+    </style>
+    <style name="PagerSlidingTabStrip">
+        <item name="pstsIndicatorColor">#ff02b0dc</item>
+        <item name="pstsDividerColor">#ffffffff</item>
+        <item name="pstsUnderlineColor">#ff02b0dc</item>
+
+        <item name="pstsShouldExpand">true</item>
+
+        <item name="pstsTextAllCaps">true</item>
+
+    </style>
+    <style name="button_text" >
+            <item name="android:layout_width" >fill_parent</item>
+            <item name="android:layout_height" >wrap_content</item>
+            <item name="android:textColor" >#ffffff</item>
+            <item name="android:gravity" >center</item>
+            <item name="android:layout_margin" >3dp</item>
+            <item name="android:textSize" >30dp</item>
+            <item name="android:textStyle" >bold</item>
+            <item name="android:shadowColor" >#000000</item>
+            <item name="android:shadowDx" >1</item>
+            <item name="android:shadowDy" >1</item>
+            <item name="android:shadowRadius" >2</item>
+        </style>
+
+    <style name="DefaultButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:shadowColor">#ff414141</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+    <style name="AboutTextTittle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/default_component_padding</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/about_text_tittle</item>
+        <item name="android:textIsSelectable">true</item>
+        <item name="android:textColor">@color/grey_soft</item>
+    </style>
+
+    <style name="AboutTextContent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">@dimen/default_component_padding</item>
+        <item name="android:textSize">@dimen/about_text_content</item>
+        <item name="android:textIsSelectable">true</item>
+        <item name="android:autoLink">web</item>
+    </style>
+    <style name="DefaultLayout">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:clickable">false</item>
+    </style>
+    <style name="LayoutMatchParent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <!--linea-->
+    <style name="HorizontalDivider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/line_width</item>
+        <item name="android:background">@drawable/line_horizontal</item>
+    </style>
+</resources>

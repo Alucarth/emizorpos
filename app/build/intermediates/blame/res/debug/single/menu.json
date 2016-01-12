@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/menu/menu_factura.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/src/main/res/menu/menu_factura.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/menu/menu_toast.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/src/main/res/menu/menu_toast.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/menu/menu_principal.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/src/main/res/menu/menu_principal.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/menu/menu_tabswipe.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/src/main/res/menu/menu_tabswipe.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/menu/menu_login.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/src/main/res/menu/menu_login.xml"
+    }
+]

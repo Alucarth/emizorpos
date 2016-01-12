@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/icono_usuario.png",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/src/main/res/mipmap-xxxhdpi/icono_usuario.png"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_person.png",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/src/main/res/mipmap-xxxhdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_user_circle.png",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/src/main/res/mipmap-xxxhdpi/ic_user_circle.png"
+    }
+]

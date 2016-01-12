@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:fab="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/rv"
+        />
+<com.software.shell.fab.ActionButton
+    android:id="@+id/action_button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentRight="true"
+    android:layout_marginRight="@dimen/fab_margin"
+    android:layout_marginBottom="@dimen/fab_margin"
+    fab:type="normal"
+    fab:button_color="#3F51B5"
+    fab:button_colorPressed="#304FFE"
+    fab:image="@drawable/fab_plus_icon"
+    fab:image_size="35dp"
+    fab:shadow_color="#ff000000"
+    fab:shadow_radius="1.0dp"
+    fab:shadow_xOffset="0.5dp"
+    fab:shadow_yOffset="1.0dp"
+    fab:stroke_color="@color/fab_material_blue_grey_500"
+    fab:stroke_width="1.0dp"
+    fab:button_colorRipple="#1A237E"
+    fab:rippleEffect_enabled="false"
+    fab:shadowResponsiveEffect_enabled="true"
+    fab:show_animation="@anim/fab_roll_from_down"
+    fab:hide_animation="@anim/fab_roll_to_down"
+    />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Brian/AndroidStudioProjects/FvPOSv0/app/src/main/res/layout/fragment_lista.xml -->

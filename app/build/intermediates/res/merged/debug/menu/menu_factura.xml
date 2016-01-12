@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_factura_cliente"
+        android:title="cliente"
+        android:icon="@drawable/ic_action_add_person"
+        app:showAsAction="withText|always"
+        />
+    <item android:id="@+id/action_factura_imprimir"
+        android:title="imprimir"
+        android:icon="@drawable/ic_action_imprimir"
+        app:showAsAction="withText|always"
+        />
+    <item android:id="@+id/action_factura_cancelar"
+        android:title="Editar"
+
+        android:icon="@drawable/ic_action_cancel"
+        app:showAsAction="withText|never"
+        />
+</menu>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:id="@+id/head"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="NOMBRE"
+            android:textColor="#ff000000"
+            android:textSize="15dp"
+            android:id="@+id/txt_factura_nombre"
+            android:paddingTop="5dp"
+            android:layout_marginStart="15dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="NIT"
+            android:textColor="#ff000000"
+            android:textSize="15dp"
+            android:id="@+id/txt_factura_nit"
+            android:layout_marginLeft="15dp"
+            android:layout_below="@+id/txt_factura_nombre"
+            android:layout_alignParentStart="true" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Nit 0"
+            android:textSize="14dp"
+            android:id="@+id/checkNit0"
+            android:layout_marginEnd="45dp"
+            android:paddingTop="3dp"
+
+            android:layout_alignParentEnd="true" />
+
+
+    </RelativeLayout>
+
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listProductos"
+        android:layout_alignParentEnd="true"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:layout_below="@+id/head"
+        android:layout_above="@+id/linearLayout" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout">
+
+        <GridView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:id="@+id/barra_factura_saldo"
+            android:numColumns="2"
+
+            android:gravity="center"
+            android:background="#cb000z000"
+
+
+            />
+
+
+    </LinearLayout>
+</RelativeLayout>
+<!-- From: file:/C:/Users/Brian/AndroidStudioProjects/FvPOSv0/app/src/main/res/layout/fragment_factura.xml -->

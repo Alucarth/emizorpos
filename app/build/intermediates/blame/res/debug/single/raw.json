@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/raw/linea.bmp",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/src/main/res/raw/linea.bmp"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/raw/fac3.bmp",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/src/main/res/raw/fac3.bmp"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/raw/bus_ticket_qr.bmp",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/src/main/res/raw/bus_ticket_qr.bmp"
+    }
+]

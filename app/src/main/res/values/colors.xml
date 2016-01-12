@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_background">#009DDE</color>
+    <color name="colorNotesItem">#cb000000</color>
+    <color name="colorText">#304FFE</color>
+    <color name="grey_soft">#414141</color>
+    <color name="menu_color">#cb000000</color>
+    <color name="grey_shadow">#E5E3DA</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#fffd1423</color>
+    <color name="blue">#ff3a6cf1</color>
+    <color name="green">#ff25478e</color>
+</resources>

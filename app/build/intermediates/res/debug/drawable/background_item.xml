@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/red" android:state_checked="true"/>
+    <item android:drawable="@color/blue" android:state_selected="true"/>
+    <item android:drawable="@color/green"/>
+</selector><!-- From: file:/C:/Users/Brian/AndroidStudioProjects/FvPOSv0/app/src/main/res/drawable/background_item.xml -->

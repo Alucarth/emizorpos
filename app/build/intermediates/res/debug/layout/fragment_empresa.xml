@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LayoutMatchParent"
+    android:fillViewport="true"
+    tools:context="com.artivisi.android.playsms.ui.AboutActivity">
+    <LinearLayout style="@style/DefaultLayout">
+
+        <TextView style="@style/AboutTextTittle"
+            android:text="EMIZOR"
+            android:id="@+id/view_about_tittle"/>
+
+        <View style="@style/HorizontalDivider" />
+
+        <TextView style="@style/AboutTextContent"
+            android:text="Free and Open Source Android app for Emizor."
+            android:id="@+id/view_about_content_1"/>
+
+        <TextView style="@style/AboutTextContent"
+            android:text="Emizor is a flexible Web-based Mobile Portal System that it can be made to fit to various services such as an SMS gateway, personal messaging systems, corporate and group communication tools. More information about Factura Virtual can be found at the project URL http://www.emizor.com"
+            android:id="@+id/view_about_content_2"/>
+        </LinearLayout>
+    </ScrollView><!-- From: file:/C:/Users/Brian/AndroidStudioProjects/FvPOSv0/app/src/main/res/layout/fragment_empresa.xml -->

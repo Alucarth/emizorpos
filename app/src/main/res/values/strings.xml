@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Factura Virtual Online</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Salir</string>
+    <string name="notes">Notes</string>
+    <string name="cost">Cost</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="title_activity_login">EMIZOR</string>
+    <string name="branch_id">sin seleccion</string>
+</resources>

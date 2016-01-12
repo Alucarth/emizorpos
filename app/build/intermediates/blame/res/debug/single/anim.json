@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/fab_jump_to_down.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/res/anim/fab_jump_to_down.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/fab_jump_from_right.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/res/anim/fab_jump_from_right.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/fab_jump_to_right.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/res/anim/fab_jump_to_right.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/fab_roll_to_down.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/res/anim/fab_roll_to_down.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/fab_roll_from_down.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/res/anim/fab_roll_from_down.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/fab_scale_up.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/res/anim/fab_scale_up.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/fab_roll_from_right.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/res/anim/fab_roll_from_right.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/fab_jump_from_down.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/res/anim/fab_jump_from_down.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/fab_roll_to_right.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/res/anim/fab_roll_to_right.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/fab_scale_down.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/res/anim/fab_scale_down.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/fab_fade_out.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/res/anim/fab_fade_out.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/res/merged/debug/anim/fab_fade_in.xml",
+        "source": "/home/david/AndroidStudioProjects/FvPOSv0/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.1/res/anim/fab_fade_in.xml"
+    }
+]
